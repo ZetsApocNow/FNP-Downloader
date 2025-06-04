@@ -11,6 +11,7 @@ After the download is done, it'll revert back to the original prompt.
 
 Please do open the py file and edit the JACKETT_BASE_URL, JACKETT_API_KEY, DOWNLOAD_FOLDER, MOVIE_FOLDERS. It can be run by simply double clicking it or starting it via CLI.
 
+Jackett api key can be found at the top of the Jackett dashboard
+
 ![Screenshot 2025-06-04 120344](https://github.com/user-attachments/assets/3cd9ba23-ea40-45ee-ab47-593ec9e851eb)
 
-It basically performs a search using the FearNoPeer RSS feed set to certain variables and downloads the files.
