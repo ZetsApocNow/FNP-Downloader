@@ -28,3 +28,13 @@ You may hit a wall with the downloading if you don't keep seeding old torrents a
 ### Screenshot
 
 ![Screenshot 2025-06-04 120344](https://github.com/user-attachments/assets/3cd9ba23-ea40-45ee-ab47-593ec9e851eb)
+
+=====================================================================================
+
+I've also added my optional script for posting to discord a notification of a movie being added, it cleans the name (not 100%) and posts  
+"[media name] has been added" into the chosen channel webhook. It checks every 5 seconds and displays "Posted to Discord" in the CLI. Again you need to open the py up and change the below variables.
+
+FOLDER_TO_WATCH  
+DISCORD_WEBHOOK  
+
+![Screenshot 2025-06-04 123206](https://github.com/user-attachments/assets/b6f5e2eb-502e-4cb2-84a1-43b5420a481b)
