@@ -15,3 +15,4 @@ Jackett api key can be found at the top of the Jackett dashboard
 
 ![Screenshot 2025-06-04 120344](https://github.com/user-attachments/assets/3cd9ba23-ea40-45ee-ab47-593ec9e851eb)
 
+You may hit a wall with the downloading if you don't keep seeding old torrents as FNP has a 0.80 ratio policy, this can be mitigated by purchasing VIP.
