@@ -32,7 +32,7 @@ You may hit a wall with the downloading if you don't keep seeding old torrents a
 =====================================================================================
 
 I've also added my optional script for posting to discord a notification of a movie being added, it cleans the name (not 100%) and posts  
-"[media name] has been added" into the chosen channel webhook. It checks every 5 seconds and displays "Posted to Discord" in the CLI. Again you need to open the py up and change the below variables.
+"[media name] has been added" into the chosen channel webhook. It checks every 5 seconds and displays "Posted to Discord" in the CLI. Be wary that if downloading a tv series, it'll spam due to epsisodes, so I recommend pointing to a films only folder. Again you need to open the py up and change the below variables.
 
 FOLDER_TO_WATCH  
 DISCORD_WEBHOOK  
