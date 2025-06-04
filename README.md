@@ -8,10 +8,10 @@ Requires Jackett set up running with FearNoPeer added as an indexer
 
 Please do open the py file and edit the  
   
-JACKETT_BASE_URL  
+JACKETT_BASE_URL - usually http://localhost:9117  
 JACKETT_API_KEY - can be found at the top of the Jackett dashboard  
-DOWNLOAD_FOLDER  
-MOVIE_FOLDERS  
+DOWNLOAD_FOLDER - where you want the torrents downloaded to  
+MOVIE_FOLDERS - local movie folders to search through  
   
 It can be run by simply double clicking it or starting it via CLI.
 
